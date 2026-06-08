@@ -1,0 +1,149 @@
+{
+ "variants": {
+  "夜间 0bps": {
+   "mean_bps": 15.57,
+   "t": 9.15,
+   "sharpe": 1.41,
+   "sortino": 1.78,
+   "cagr_pct": 42.4,
+   "total_x": 2808290.92,
+   "mdd_pct": -53.7,
+   "vol_pct": 27.8,
+   "win_pct": 54.8
+  },
+  "价差(多夜空日) 0bps": {
+   "mean_bps": 17.92,
+   "t": 4.95,
+   "sharpe": 0.76,
+   "sortino": 1.04,
+   "cagr_pct": 31.7,
+   "total_x": 104222.45,
+   "mdd_pct": -99.4,
+   "vol_pct": 59.2,
+   "win_pct": 53.7
+  },
+  "夜间 2bps": {
+   "mean_bps": 11.56,
+   "t": 6.8,
+   "sharpe": 1.05,
+   "sortino": 1.39,
+   "cagr_pct": 28.8,
+   "total_x": 40703.25,
+   "mdd_pct": -69.2,
+   "vol_pct": 27.8,
+   "win_pct": 46.1
+  },
+  "价差(多夜空日) 2bps": {
+   "mean_bps": 9.92,
+   "t": 2.74,
+   "sharpe": 0.42,
+   "sortino": 0.58,
+   "cagr_pct": 7.6,
+   "total_x": 21.91,
+   "mdd_pct": -99.9,
+   "vol_pct": 59.2,
+   "win_pct": 51.5
+  },
+  "夜间 5bps": {
+   "mean_bps": 5.56,
+   "t": 3.27,
+   "sharpe": 0.5,
+   "sortino": 0.67,
+   "cagr_pct": 10.7,
+   "total_x": 70.91,
+   "mdd_pct": -89.3,
+   "vol_pct": 27.8,
+   "win_pct": 44.7
+  },
+  "价差(多夜空日) 5bps": {
+   "mean_bps": -2.08,
+   "t": -0.57,
+   "sharpe": -0.09,
+   "sortino": -0.12,
+   "cagr_pct": -20.5,
+   "total_x": 0.0,
+   "mdd_pct": -100.0,
+   "vol_pct": 59.2,
+   "win_pct": 50.0
+  },
+  "趋势过滤夜间 0bps": {
+   "mean_bps": 11.16,
+   "t": 9.8,
+   "sharpe": 1.51,
+   "sortino": 1.48,
+   "cagr_pct": 30.2,
+   "total_x": 64857.55,
+   "mdd_pct": -30.3,
+   "vol_pct": 18.6,
+   "win_pct": 30.7
+  },
+  "趋势过滤夜间 2bps": {
+   "mean_bps": 8.99,
+   "t": 7.91,
+   "sharpe": 1.22,
+   "sortino": 1.24,
+   "cagr_pct": 23.3,
+   "total_x": 6571.65,
+   "mdd_pct": -34.3,
+   "vol_pct": 18.6,
+   "win_pct": 26.5
+  },
+  "趋势过滤夜间 5bps": {
+   "mean_bps": 5.74,
+   "t": 5.06,
+   "sharpe": 0.78,
+   "sortino": 0.8,
+   "cagr_pct": 13.6,
+   "total_x": 211.77,
+   "mdd_pct": -59.2,
+   "vol_pct": 18.5,
+   "win_pct": 25.7
+  },
+  "买入持有": {
+   "mean_bps": 13.38,
+   "t": 3.61,
+   "sharpe": 0.56,
+   "sortino": 0.84,
+   "cagr_pct": 16.6,
+   "total_x": 639.56,
+   "mdd_pct": -98.2,
+   "vol_pct": 60.6,
+   "win_pct": 48.5
+  },
+  "日内 0bps": {
+   "mean_bps": -2.35,
+   "t": -0.73,
+   "sharpe": -0.11,
+   "sortino": -0.17,
+   "cagr_pct": -18.1,
+   "total_x": 0.0,
+   "mdd_pct": -100.0,
+   "vol_pct": 53.0,
+   "win_pct": 46.1
+  }
+ },
+ "spread_regime": {
+  "bull": {
+   "mean_bps": 20.16,
+   "t": 4.92,
+   "sharpe": 1.11,
+   "sortino": 1.67,
+   "cagr_pct": 49.8,
+   "total_x": 2649.77,
+   "mdd_pct": -59.2,
+   "vol_pct": 45.6,
+   "win_pct": 53.1
+  },
+  "bear": {
+   "mean_bps": -0.4,
+   "t": -0.04,
+   "sharpe": -0.01,
+   "sortino": -0.02,
+   "cagr_pct": -26.1,
+   "total_x": 0.13,
+   "mdd_pct": -96.8,
+   "vol_pct": 75.7,
+   "win_pct": 51.9
+  }
+ }
+}

@@ -60,3 +60,9 @@ engine/Cargo.lock
 # Coverage
 .coverage
 htmlcov/
+
+# Python venv
+.venv/
+
+# Conversation logs
+conversation-*.txt
